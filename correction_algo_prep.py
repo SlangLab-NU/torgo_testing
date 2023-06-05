@@ -2,7 +2,7 @@
 """Data prep"""
 import re
 from datasets import load_dataset, load_metric, DatasetDict, Dataset, Audio
-from huggingsound import SpeechRecognitionModel
+from huggingface_hub import SpeechRecognitionModel
 import pandas as pd
 import librosa
 from tqdm import tqdm
