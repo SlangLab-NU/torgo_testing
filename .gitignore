@@ -2,3 +2,4 @@
 /.venv
 /content
 /model_staging
+myenv/
