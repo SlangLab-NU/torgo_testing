@@ -1,6 +1,6 @@
 import re
 from datasets import load_dataset, DatasetDict, Audio
-from huggingface_hub import SpeechRecognitionModel
+from huggingsound import SpeechRecognitionModel
 from tqdm import tqdm
 import json
 
@@ -25,7 +25,8 @@ def prep_training_data(model, dataset):
         row = {
             "path": audio_path,
             "actual": example["text"].lower(),
-            "prediction": prediction
+            "prediction": prediction,
+            "speaker": example["speaker_id"]
         }
         references.append(row)
     return references
