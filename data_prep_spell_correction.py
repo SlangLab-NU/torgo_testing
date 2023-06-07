@@ -31,8 +31,8 @@ def prep_training_data(model, dataset):
         references.append(row)
     return references
 
-def main():
-    speaker = 'F01'
+def main(): 
+    speaker = 'F03'
 
     model = SpeechRecognitionModel("yip-i/torgo_xlsr_finetune-" + speaker + "-2")
     data = load_dataset('csv', data_files='output.csv')
