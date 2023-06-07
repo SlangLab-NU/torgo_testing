@@ -1,5 +1,4 @@
 /.DS_Store
-/.venv
-/content
+content/
 /model_staging
 env/
