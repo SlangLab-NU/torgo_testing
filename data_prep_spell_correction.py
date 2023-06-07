@@ -32,7 +32,7 @@ def prep_training_data(model, dataset):
     return references
 
 def main(): 
-    speaker = 'F03'
+    speaker = 'F04'
 
     model = SpeechRecognitionModel("yip-i/torgo_xlsr_finetune-" + speaker + "-2")
     data = load_dataset('csv', data_files='output.csv')
@@ -48,13 +48,13 @@ def main():
     timit_transcribed = prep_training_data(model, timit)
 
     # Save the transcribed data for the held-out speaker to a JSON file
-    save_to_json(timit_transcribed, "speaker_f01.json")
+    save_to_json(timit_transcribed, "speaker_f04.json")
 
     # Prepare and transcribe the data for the remaining speakers
     train_data_transcribed = prep_training_data(model, train_data_transcribed)
 
     # Save the transcribed data for the remaining speakers to a JSON file
-    save_to_json(train_data_transcribed, "f01_other_speakers.json")
+    save_to_json(train_data_transcribed, "f04_other_speakers.json")
 
 if __name__ == "__main__":
     main()
