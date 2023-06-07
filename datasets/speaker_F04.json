@@ -1,0 +1,3956 @@
+[
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0005.wav",
+        "actual": "fee ",
+        "prediction": "fee",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0006.wav",
+        "actual": "yet he still thinks as swiftly as ever ",
+        "prediction": "yet he still thinks as wiftly as ever",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0008.wav",
+        "actual": "knew ",
+        "prediction": "knew",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0009.wav",
+        "actual": "left ",
+        "prediction": "left",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0010.wav",
+        "actual": "air ",
+        "prediction": "air",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0011.wav",
+        "actual": "torn ",
+        "prediction": "torn",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0012.wav",
+        "actual": "born ",
+        "prediction": "born",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0013.wav",
+        "actual": "trait ",
+        "prediction": "trait",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0014.wav",
+        "actual": "stubble ",
+        "prediction": "stubble",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0015.wav",
+        "actual": "you wished to know all about my grandfather ",
+        "prediction": "you wished to know all about my grandfather",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0016.wav",
+        "actual": "chair ",
+        "prediction": "chair",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0017.wav",
+        "actual": "sticks ",
+        "prediction": "sticks",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0018.wav",
+        "actual": "storm ",
+        "prediction": "storm",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0019.wav",
+        "actual": "rage ",
+        "prediction": "rage",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0020.wav",
+        "actual": "trace ",
+        "prediction": "trace",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0021.wav",
+        "actual": "go ",
+        "prediction": "go",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0022.wav",
+        "actual": "beat ",
+        "prediction": "beat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0023.wav",
+        "actual": "hair ",
+        "prediction": "hair",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0024.wav",
+        "actual": "jacket ",
+        "prediction": "jacket",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0025.wav",
+        "actual": "he dressed himself in an ancient black frock coat ",
+        "prediction": "he dresed himself in an ancient black frock coat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0026.wav",
+        "actual": "swarm ",
+        "prediction": "swarm",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0027.wav",
+        "actual": "usually minus several buttons ",
+        "prediction": "usually minus several buttons",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0028.wav",
+        "actual": "store ",
+        "prediction": "store",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0029.wav",
+        "actual": "knew ",
+        "prediction": "knew",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0031.wav",
+        "actual": "chair ",
+        "prediction": "chair",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0032.wav",
+        "actual": "no ",
+        "prediction": "know",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0033.wav",
+        "actual": "spark ",
+        "prediction": "spark",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0034.wav",
+        "actual": "grandfather likes to be modern in his language ",
+        "prediction": "grandfather likes to be modern in his languag",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0035.wav",
+        "actual": "tip ",
+        "prediction": "tip",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0037.wav",
+        "actual": "weed ",
+        "prediction": "weed",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0038.wav",
+        "actual": "she had your dark suit in greasy wash water all year ",
+        "prediction": "she had your dark suit in greasy wash water all year",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0039.wav",
+        "actual": "grow ",
+        "prediction": "grow",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0041.wav",
+        "actual": "two ",
+        "prediction": "two",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0042.wav",
+        "actual": "don't ask me to carry an oily rag like that ",
+        "prediction": "don't ask me to cary an oily rag like that",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0043.wav",
+        "actual": "but he always answers banana oil ",
+        "prediction": "but he always answers banana oil",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0044.wav",
+        "actual": "air ",
+        "prediction": "air",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0045.wav",
+        "actual": "rake ",
+        "prediction": "bake",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0046.wav",
+        "actual": "well he is nearly ninetythree years old ",
+        "prediction": "well he is nearly ninetythree years old",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0047.wav",
+        "actual": "glow ",
+        "prediction": "glow",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0048.wav",
+        "actual": "knee ",
+        "prediction": "meet",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0051.wav",
+        "actual": "park ",
+        "prediction": "park",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0052.wav",
+        "actual": "horn ",
+        "prediction": "horn",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0054.wav",
+        "actual": "goat ",
+        "prediction": "goat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0055.wav",
+        "actual": "dark ",
+        "prediction": "dark",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0056.wav",
+        "actual": "bit ",
+        "prediction": "bit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0057.wav",
+        "actual": "the ",
+        "prediction": "the",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0058.wav",
+        "actual": "gadget ",
+        "prediction": "gadget",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0059.wav",
+        "actual": "race ",
+        "prediction": "race",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0060.wav",
+        "actual": "raid ",
+        "prediction": "raid",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0061.wav",
+        "actual": "he slowly takes a short walk in the open air each day ",
+        "prediction": "lhe slowly takes a short walk in the open air each day",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0062.wav",
+        "actual": "yes ",
+        "prediction": "yes",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0063.wav",
+        "actual": "giving those who observe him a pronounced feeling of the utmost respect ",
+        "prediction": "givving thos who observe him a pronounced feling of the utmost respect",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0064.wav",
+        "actual": "fair ",
+        "prediction": "fair",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0065.wav",
+        "actual": "the quick brown fox jumps over the lazy dog ",
+        "prediction": "the quick brown fox jumps over the lazy dog",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0067.wav",
+        "actual": "twice each day he plays skillfully and with zest upon our small organ ",
+        "prediction": "twice each day he plays skillfully and with zest upon our small organ",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0068.wav",
+        "actual": "warm ",
+        "prediction": "warm",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0070.wav",
+        "actual": "feed ",
+        "prediction": "feed",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0072.wav",
+        "actual": "bug ",
+        "prediction": "bud",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0073.wav",
+        "actual": "swarm ",
+        "prediction": "swarm",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0074.wav",
+        "actual": "range ",
+        "prediction": "range",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0076.wav",
+        "actual": "jagged ",
+        "prediction": "jagged",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0078.wav",
+        "actual": "rate ",
+        "prediction": "rate",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0080.wav",
+        "actual": "trouble ",
+        "prediction": "trouble",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0081.wav",
+        "actual": "rain ",
+        "prediction": "rain",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0082.wav",
+        "actual": "corn ",
+        "prediction": "corn",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0083.wav",
+        "actual": "right ",
+        "prediction": "rihte",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0084.wav",
+        "actual": "know ",
+        "prediction": "know",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0085.wav",
+        "actual": "feet ",
+        "prediction": "feet",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0086.wav",
+        "actual": "beta ",
+        "prediction": "bada",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0087.wav",
+        "actual": "beta ",
+        "prediction": "beta",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0089.wav",
+        "actual": "double ",
+        "prediction": "double",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0090.wav",
+        "actual": "rave ",
+        "prediction": "rave",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0091.wav",
+        "actual": "except in the winter when the ooze or snow or ice prevents ",
+        "prediction": "except in the winter when the o or snow or ice preventss",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0092.wav",
+        "actual": "except in the winter when the ooze or snow or ice prevents ",
+        "prediction": "except in the winter wen the sze or snow or ice prevent",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0093.wav",
+        "actual": "trade ",
+        "prediction": "trade",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0094.wav",
+        "actual": "alpha ",
+        "prediction": "alpha",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0095.wav",
+        "actual": "bubble ",
+        "prediction": "bouble",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0096.wav",
+        "actual": "ship ",
+        "prediction": "ship",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0097.wav",
+        "actual": "form ",
+        "prediction": "form",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0098.wav",
+        "actual": "for ",
+        "prediction": "four",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0099.wav",
+        "actual": "share ",
+        "prediction": "share",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0100.wav",
+        "actual": "when he speaks his voice is just a bit cracked and quivers a trifle ",
+        "prediction": "when he speaks his voice is just a bit cracked and quivers a trifle",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0101.wav",
+        "actual": "train ",
+        "prediction": "train",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0102.wav",
+        "actual": "feed ",
+        "prediction": "feed",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0103.wav",
+        "actual": "sip ",
+        "prediction": "sit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0104.wav",
+        "actual": "pat ",
+        "prediction": "pat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0107.wav",
+        "actual": "stick ",
+        "prediction": "stick",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0109.wav",
+        "actual": "car ",
+        "prediction": "car",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0110.wav",
+        "actual": "warm ",
+        "prediction": "warm",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0111.wav",
+        "actual": "beat ",
+        "prediction": "beat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0112.wav",
+        "actual": "we have often urged him to walk more and smoke less ",
+        "prediction": "we have often urged him to walk more and smoke less",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0113.wav",
+        "actual": "slip ",
+        "prediction": "slip",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0114.wav",
+        "actual": "one ",
+        "prediction": "one",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0115.wav",
+        "actual": "sip ",
+        "prediction": "sit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0116.wav",
+        "actual": "sip ",
+        "prediction": "sip",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0117.wav",
+        "actual": "swore ",
+        "prediction": "swore",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0118.wav",
+        "actual": "feet ",
+        "prediction": "feet",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0120.wav",
+        "actual": "a long flowing beard clings to his chin ",
+        "prediction": "a long flowing beard clings to his chin",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0121.wav",
+        "actual": "down ",
+        "prediction": "down",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0122.wav",
+        "actual": "dagger ",
+        "prediction": "dagger",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0123.wav",
+        "actual": "meat ",
+        "prediction": "meat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0124.wav",
+        "actual": "farm ",
+        "prediction": "farm",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0125.wav",
+        "actual": "bat ",
+        "prediction": "bat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0126.wav",
+        "actual": "up ",
+        "prediction": "up",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0127.wav",
+        "actual": "knew ",
+        "prediction": "knew",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0128.wav",
+        "actual": "sleep ",
+        "prediction": "sleep",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0129.wav",
+        "actual": "pile ",
+        "prediction": "pile",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0130.wav",
+        "actual": "you'd be better off taking a cold shower ",
+        "prediction": "you'd be better off taking a cold shower",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0131.wav",
+        "actual": "you'd be better off taking a cold shower ",
+        "prediction": "you'd be better off taking a cold shower",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0132.wav",
+        "actual": "sway ",
+        "prediction": "sway",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0133.wav",
+        "actual": "both figures would go higher in later years ",
+        "prediction": "both figures would go higher in the later years",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0134.wav",
+        "actual": "charlie ",
+        "prediction": "charlie",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0135.wav",
+        "actual": "mut ",
+        "prediction": "mut",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0136.wav",
+        "actual": "troop ",
+        "prediction": "troop",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0137.wav",
+        "actual": "here ",
+        "prediction": "here",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0138.wav",
+        "actual": "wish ",
+        "prediction": "wish",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0140.wav",
+        "actual": "ate ",
+        "prediction": "eight",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0142.wav",
+        "actual": "pot ",
+        "prediction": "pot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0144.wav",
+        "actual": "slip ",
+        "prediction": "slit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0145.wav",
+        "actual": "slip ",
+        "prediction": "slip",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0146.wav",
+        "actual": "white ",
+        "prediction": "white",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0147.wav",
+        "actual": "mother sews yellow gingham aprons ",
+        "prediction": "mother sews yellow gingham aprons",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0148.wav",
+        "actual": "i just try to do my best ",
+        "prediction": "i just try to do my best",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0149.wav",
+        "actual": "bad ",
+        "prediction": "bad",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0150.wav",
+        "actual": "where were you while we were away ",
+        "prediction": "where were you while we were away",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0151.wav",
+        "actual": "deer ",
+        "prediction": "deer",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0152.wav",
+        "actual": "droop ",
+        "prediction": "droop",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0153.wav",
+        "actual": "group ",
+        "prediction": "group",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0154.wav",
+        "actual": "bad ",
+        "prediction": "bad",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0155.wav",
+        "actual": "near ",
+        "prediction": "near",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0156.wav",
+        "actual": "cheer ",
+        "prediction": "cheer",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0157.wav",
+        "actual": "thigh ",
+        "prediction": "thigh",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0158.wav",
+        "actual": "single ",
+        "prediction": "single",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0159.wav",
+        "actual": "if you destroy confidence in banks you do something to the economy he said ",
+        "prediction": "if you destroy confidence in banks you do something to the economy he said",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0160.wav",
+        "actual": "bat ",
+        "prediction": "fat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0162.wav",
+        "actual": "coupe ",
+        "prediction": "toop",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0163.wav",
+        "actual": "write ",
+        "prediction": "right",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0164.wav",
+        "actual": "the train approached the depot slowly ",
+        "prediction": "the train approached the depot slowly",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0165.wav",
+        "actual": "no ",
+        "prediction": "know",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0166.wav",
+        "actual": "the islands are sparsely populated ",
+        "prediction": "the islands are sparsely populated",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0167.wav",
+        "actual": "area ",
+        "prediction": "area",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0168.wav",
+        "actual": "steer ",
+        "prediction": "steer",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0169.wav",
+        "actual": "tile ",
+        "prediction": "tile",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0170.wav",
+        "actual": "select ",
+        "prediction": "select",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0171.wav",
+        "actual": "sweet ",
+        "prediction": "sweet",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0172.wav",
+        "actual": "suit ",
+        "prediction": "suit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0173.wav",
+        "actual": "of ",
+        "prediction": "lof",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0174.wav",
+        "actual": "you're used to being on the field ",
+        "prediction": "you're used to being on the field",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0175.wav",
+        "actual": "forward ",
+        "prediction": "forward",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0176.wav",
+        "actual": "root ",
+        "prediction": "root",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0177.wav",
+        "actual": "my sister made the flowered curtains ",
+        "prediction": "my sister made the flowered curtains",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0178.wav",
+        "actual": "three ",
+        "prediction": "three",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0179.wav",
+        "actual": "pat ",
+        "prediction": "pat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0180.wav",
+        "actual": "bright sunshine shimmers on the ocean ",
+        "prediction": "bright sunshine shimmers on the ocean",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0181.wav",
+        "actual": "ate ",
+        "prediction": "eight",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0182.wav",
+        "actual": "pay ",
+        "prediction": "pay",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0183.wav",
+        "actual": "light ",
+        "prediction": "light",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0184.wav",
+        "actual": "two other cases also were under advisement ",
+        "prediction": "two other cases also were under advisement",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0185.wav",
+        "actual": "much ",
+        "prediction": "much",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0186.wav",
+        "actual": "hate ",
+        "prediction": "hate",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0187.wav",
+        "actual": "whoop ",
+        "prediction": "whoop",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0188.wav",
+        "actual": "whoop ",
+        "prediction": "slip",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0189.wav",
+        "actual": "know ",
+        "prediction": "know",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0190.wav",
+        "actual": "rock ",
+        "prediction": "rock",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0191.wav",
+        "actual": "why yell or worry over silly items ",
+        "prediction": "why yell or wory over silly items",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0192.wav",
+        "actual": "toot ",
+        "prediction": "toot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0193.wav",
+        "actual": "knot ",
+        "prediction": "knot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0194.wav",
+        "actual": "fate ",
+        "prediction": "fate",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0195.wav",
+        "actual": "were ",
+        "prediction": "we're",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0196.wav",
+        "actual": "we're ",
+        "prediction": "we're",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0198.wav",
+        "actual": "just one side got wet ",
+        "prediction": "just one side got wet",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session1/wav_arrayMic/0199.wav",
+        "actual": "air ",
+        "prediction": "air",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0001.wav",
+        "actual": "shoot ",
+        "prediction": "shoot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0002.wav",
+        "actual": "i looked up and noticed two old men ",
+        "prediction": "i looked up and noticed two old men",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0003.wav",
+        "actual": "slay ",
+        "prediction": "slay",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0004.wav",
+        "actual": "will robin wear a yellow lily ",
+        "prediction": "will robin wear a yellow lily",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0005.wav",
+        "actual": "i was conscious all the time ",
+        "prediction": "i was conscious all the time",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0006.wav",
+        "actual": "prior ",
+        "prediction": "prior",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0007.wav",
+        "actual": "play ",
+        "prediction": "play",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0008.wav",
+        "actual": "briar ",
+        "prediction": "briar",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0009.wav",
+        "actual": "he will allow a rare lilyrare lie ",
+        "prediction": "he will alllow a rare lily rarelize",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0010.wav",
+        "actual": "shear ",
+        "prediction": "shear",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0011.wav",
+        "actual": "suit ",
+        "prediction": "suit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0013.wav",
+        "actual": "all the big baseball players get traded ",
+        "prediction": "all the big baseball players get traded",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0014.wav",
+        "actual": "this was easy for us ",
+        "prediction": "this was easy for us",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0015.wav",
+        "actual": "fear ",
+        "prediction": "fear",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0016.wav",
+        "actual": "fear ",
+        "prediction": "fear",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0017.wav",
+        "actual": "sprinkle ",
+        "prediction": "sprinkle",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0018.wav",
+        "actual": "snoop ",
+        "prediction": "snoop",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0019.wav",
+        "actual": "i scrubbed the floors thoroughly ",
+        "prediction": "i scrubbed the floors thoroughly",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0020.wav",
+        "actual": "boot ",
+        "prediction": "woot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0021.wav",
+        "actual": "boot ",
+        "prediction": "boot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0022.wav",
+        "actual": "rocks ",
+        "prediction": "rocks",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0023.wav",
+        "actual": "witch ",
+        "prediction": "witch",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0026.wav",
+        "actual": "though ",
+        "prediction": "though",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0027.wav",
+        "actual": "galore ",
+        "prediction": "galore",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0028.wav",
+        "actual": "i tried to tell people in the community ",
+        "prediction": "i tried to tell people in the communnity",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0029.wav",
+        "actual": "gnaw ",
+        "prediction": "gnaw",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0030.wav",
+        "actual": "cycle ",
+        "prediction": "cycle",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0031.wav",
+        "actual": "delta ",
+        "prediction": "delta",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0032.wav",
+        "actual": "she is thinner than i am ",
+        "prediction": "she is thinner than i am",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0033.wav",
+        "actual": "bear ",
+        "prediction": "bear",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0034.wav",
+        "actual": "error ",
+        "prediction": "eror",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0035.wav",
+        "actual": "jungle ",
+        "prediction": "jungle",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0036.wav",
+        "actual": "nothing is as offensive as innocence ",
+        "prediction": "nothing is as offensive as innocence",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0037.wav",
+        "actual": "menu ",
+        "prediction": "menu",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0038.wav",
+        "actual": "peer ",
+        "prediction": "beer",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0039.wav",
+        "actual": "lip ",
+        "prediction": "rip",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0040.wav",
+        "actual": "dot ",
+        "prediction": "dot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0041.wav",
+        "actual": "we gathered shells on the beach ",
+        "prediction": "we gathered shells on the beach",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0042.wav",
+        "actual": "i feel i can play this weekend ",
+        "prediction": "i feel i can play this weekend",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0043.wav",
+        "actual": "tie ",
+        "prediction": "tie",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0044.wav",
+        "actual": "tie ",
+        "prediction": "tie",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0045.wav",
+        "actual": "sigh ",
+        "prediction": "thigh",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0046.wav",
+        "actual": "mere ",
+        "prediction": "mere",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0047.wav",
+        "actual": "everything went real smooth the sheriff said ",
+        "prediction": "everything went real smooth the sheriff  said",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0048.wav",
+        "actual": "pad ",
+        "prediction": "pad",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0049.wav",
+        "actual": "sigh ",
+        "prediction": "of sigh",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0050.wav",
+        "actual": "sigh ",
+        "prediction": "thigh",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0051.wav",
+        "actual": "side ",
+        "prediction": "side",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0052.wav",
+        "actual": "their house is grey and white ",
+        "prediction": "their house is grey and white",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0053.wav",
+        "actual": "are your grades higher or lower than nancy's ",
+        "prediction": "are your gradess higher or lower than nancy's",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0054.wav",
+        "actual": "urgent ",
+        "prediction": "urgent",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0055.wav",
+        "actual": "the humidity is overwhelming there ",
+        "prediction": "the humidity is overwhelming beere",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0056.wav",
+        "actual": "explore ",
+        "prediction": "explore",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0057.wav",
+        "actual": "they carried me off on the stretcher ",
+        "prediction": "they caried me off on the stretcher",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0058.wav",
+        "actual": "one validated acts of school districts ",
+        "prediction": "one validated acts of school district",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0059.wav",
+        "actual": "loop ",
+        "prediction": "loop",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0060.wav",
+        "actual": "yes ",
+        "prediction": "yes",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0061.wav",
+        "actual": "floor ",
+        "prediction": "floor",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0062.wav",
+        "actual": "jane may earn more money by working hard ",
+        "prediction": "jaie may earn more money by working hard",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0063.wav",
+        "actual": "back ",
+        "prediction": "back",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0064.wav",
+        "actual": "sigh ",
+        "prediction": "sigh",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0065.wav",
+        "actual": "write ",
+        "prediction": "right",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0066.wav",
+        "actual": "write ",
+        "prediction": "righte",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0067.wav",
+        "actual": "four ",
+        "prediction": "fourour",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0069.wav",
+        "actual": "fruit ",
+        "prediction": "fruit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0070.wav",
+        "actual": "witch ",
+        "prediction": "witch",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0071.wav",
+        "actual": "him ",
+        "prediction": "him",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0072.wav",
+        "actual": "night after night they received annoying phone calls ",
+        "prediction": "night after night they received annoying phone calls",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0073.wav",
+        "actual": "and ",
+        "prediction": "and",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0074.wav",
+        "actual": "spark ",
+        "prediction": "spark",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0075.wav",
+        "actual": "hem ",
+        "prediction": "hem",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0076.wav",
+        "actual": "seeds ",
+        "prediction": "feed",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0077.wav",
+        "actual": "sign ",
+        "prediction": "thorign",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0078.wav",
+        "actual": "november ",
+        "prediction": "november",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0079.wav",
+        "actual": "alfalfa is healthy for you ",
+        "prediction": "alfalfa is healthy for you",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0080.wav",
+        "actual": "mush ",
+        "prediction": "mush",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0081.wav",
+        "actual": "oscar ",
+        "prediction": "oscar",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0082.wav",
+        "actual": "sell ",
+        "prediction": "sown",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0083.wav",
+        "actual": "the misguided souls have lost their way ",
+        "prediction": "the misguided souls have lost their way",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0084.wav",
+        "actual": "five ",
+        "prediction": "five",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0085.wav",
+        "actual": "if you are losing water replace it immediately ",
+        "prediction": "if you are losing water replace it immediately",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0086.wav",
+        "actual": "hill ",
+        "prediction": "hill",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0087.wav",
+        "actual": "fitting ",
+        "prediction": "fitting",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0088.wav",
+        "actual": "swing your arm as high as you can ",
+        "prediction": "swing your arm as high as you can",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0089.wav",
+        "actual": "pit ",
+        "prediction": "pit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0090.wav",
+        "actual": "zero ",
+        "prediction": "zero",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0091.wav",
+        "actual": "much ",
+        "prediction": "much",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0092.wav",
+        "actual": "fat ",
+        "prediction": "fat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0093.wav",
+        "actual": "thought ",
+        "prediction": "thought",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0094.wav",
+        "actual": "darn ",
+        "prediction": "darn",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0095.wav",
+        "actual": "golf ",
+        "prediction": "golf",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0096.wav",
+        "actual": "i expect we'll bounce back this week ",
+        "prediction": "i expect we'll bounce back this week",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0097.wav",
+        "actual": "spit ",
+        "prediction": "spit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0098.wav",
+        "actual": "mitten ",
+        "prediction": "mitten",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0099.wav",
+        "actual": "dark ",
+        "prediction": "dark",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0100.wav",
+        "actual": "six ",
+        "prediction": "six",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0101.wav",
+        "actual": "when all else fails use force ",
+        "prediction": "when all alfk fails yuse force",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0102.wav",
+        "actual": "brought ",
+        "prediction": "brought",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0103.wav",
+        "actual": "alimony harms a divorced man's wealth ",
+        "prediction": "alimony help armas a divorced man's wealth",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0104.wav",
+        "actual": "pit ",
+        "prediction": "pit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0105.wav",
+        "actual": "hat ",
+        "prediction": "hat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0106.wav",
+        "actual": "seed ",
+        "prediction": "seed",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0107.wav",
+        "actual": "sergeant ",
+        "prediction": "sergeant",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0108.wav",
+        "actual": "carl lives in a lovely home ",
+        "prediction": "charl lives in a lovely home",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0109.wav",
+        "actual": "carl lives in a lively home ",
+        "prediction": "charle lives in a lively home",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0110.wav",
+        "actual": "dart ",
+        "prediction": "dart",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0111.wav",
+        "actual": "hum ",
+        "prediction": "hum",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0112.wav",
+        "actual": "pitting ",
+        "prediction": "pitting",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0113.wav",
+        "actual": "side ",
+        "prediction": "side",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0114.wav",
+        "actual": "reek ",
+        "prediction": "reek",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0115.wav",
+        "actual": "it also provides for funds to clear slums and help colleges build dormitories ",
+        "prediction": "it also provides for fnd to cler slems and help calcoleges billd dormitories",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0116.wav",
+        "actual": "part ",
+        "prediction": "part",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0117.wav",
+        "actual": "bloat ",
+        "prediction": "bloat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0118.wav",
+        "actual": "it was a good win for us ",
+        "prediction": "it was a good win for us",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0119.wav",
+        "actual": "nothing has been done yet to take advantage of the enabling legislation ",
+        "prediction": "nothing has ben done yet to take advantage of the ennabling legislation",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0120.wav",
+        "actual": "aluminum silverware can often be flimsy ",
+        "prediction": "aluminumss of wire can often be flimsy",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0121.wav",
+        "actual": "shy ",
+        "prediction": "side",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0122.wav",
+        "actual": "lair ",
+        "prediction": "lair",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0123.wav",
+        "actual": "cake ",
+        "prediction": "cake",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0124.wav",
+        "actual": "hitting ",
+        "prediction": "hitting",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0125.wav",
+        "actual": "city ",
+        "prediction": "city",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0126.wav",
+        "actual": "this is a period of transition for me ",
+        "prediction": "this is a period of transition for me",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0127.wav",
+        "actual": "there is a treehouse up above ",
+        "prediction": "there is a treehouse up above",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0128.wav",
+        "actual": "the dolphins swam around our boat ",
+        "prediction": "the dolphins swam around our boat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0130.wav",
+        "actual": "papa ",
+        "prediction": "palpa",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0131.wav",
+        "actual": "bran ",
+        "prediction": "brawn",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0132.wav",
+        "actual": "brawn ",
+        "prediction": "brawn",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0133.wav",
+        "actual": "pretty ",
+        "prediction": "pretty",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0134.wav",
+        "actual": "witty ",
+        "prediction": "witty",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0135.wav",
+        "actual": "tell ",
+        "prediction": "tell",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0136.wav",
+        "actual": "nine ",
+        "prediction": "nine",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0137.wav",
+        "actual": "written ",
+        "prediction": "written",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0138.wav",
+        "actual": "hotel ",
+        "prediction": "hotel",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0139.wav",
+        "actual": "cart ",
+        "prediction": "cart",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0140.wav",
+        "actual": "the box contained three sweaters ",
+        "prediction": "the box contained three swetters",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0141.wav",
+        "actual": "bitten ",
+        "prediction": "bitten",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0142.wav",
+        "actual": "lick ",
+        "prediction": "lick",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0143.wav",
+        "actual": "this is not a program of socialized medicine ",
+        "prediction": "this is not a program of socialized medicine",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0144.wav",
+        "actual": "this is not a program of socialized medicine ",
+        "prediction": "this is not a program of socialized medicine",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0145.wav",
+        "actual": "league ",
+        "prediction": "league",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0146.wav",
+        "actual": "at ",
+        "prediction": "at",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0147.wav",
+        "actual": "it eventually became a rather proud claim ",
+        "prediction": "it eventually became a rather proud claim",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0148.wav",
+        "actual": "the little schoolhouse stood empty ",
+        "prediction": "the little schoolhouse stood empty",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0149.wav",
+        "actual": "students watched as he got out ",
+        "prediction": "students watchedd as he got out",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0150.wav",
+        "actual": "take ",
+        "prediction": "take",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0151.wav",
+        "actual": "kitten ",
+        "prediction": "kitten",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0152.wav",
+        "actual": "sitting ",
+        "prediction": "sitting",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0153.wav",
+        "actual": "no ",
+        "prediction": "no",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0154.wav",
+        "actual": "rich ",
+        "prediction": "rich",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0155.wav",
+        "actual": "seven ",
+        "prediction": "seven",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0156.wav",
+        "actual": "leak ",
+        "prediction": "leak",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0157.wav",
+        "actual": "both injuries were to the same leg ",
+        "prediction": "both injuries were to the same leg",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0158.wav",
+        "actual": "hark ",
+        "prediction": "hark",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0159.wav",
+        "actual": "the job provides many benefits ",
+        "prediction": "the job provides many benefit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0160.wav",
+        "actual": "him ",
+        "prediction": "him",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0162.wav",
+        "actual": "the museum hires musicians every evening ",
+        "prediction": "the museum hires muiciians every evening",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0163.wav",
+        "actual": "eight ",
+        "prediction": "eight",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0164.wav",
+        "actual": "echo ",
+        "prediction": "echo",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0166.wav",
+        "actual": "top ",
+        "prediction": "top",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0167.wav",
+        "actual": "quebec ",
+        "prediction": "quebec",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0168.wav",
+        "actual": "mike ",
+        "prediction": "mike",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0169.wav",
+        "actual": "lima ",
+        "prediction": "lipa",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0170.wav",
+        "actual": "she wore warm fleecy woolen overalls ",
+        "prediction": "she wore warm fleecy wolen overalls",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0171.wav",
+        "actual": "vat ",
+        "prediction": "vat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0172.wav",
+        "actual": "before thursday's exam review every formula ",
+        "prediction": "before thursday's exam review every formula",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0173.wav",
+        "actual": "yes ",
+        "prediction": "yes",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0174.wav",
+        "actual": "blow ",
+        "prediction": "blow",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0175.wav",
+        "actual": "sigh ",
+        "prediction": "sigh",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0176.wav",
+        "actual": "i have had my bell rung ",
+        "prediction": "i have had my bell rung",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0177.wav",
+        "actual": "day after day some new episode is reported ",
+        "prediction": "day after day some new episod is reported",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0178.wav",
+        "actual": "heart ",
+        "prediction": "heart",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0179.wav",
+        "actual": "kilo ",
+        "prediction": "kilo",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0180.wav",
+        "actual": "kilo ",
+        "prediction": "kilo",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0181.wav",
+        "actual": "knitting ",
+        "prediction": "knitting",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0182.wav",
+        "actual": "foxtrot ",
+        "prediction": "foxtrot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0183.wav",
+        "actual": "he further proposed grants of an unspecified sum for experimental hospitals ",
+        "prediction": "he further proposed grants of an un specifided sum for experimental hospitals",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0184.wav",
+        "actual": "leak ",
+        "prediction": "leak",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0185.wav",
+        "actual": "spain ",
+        "prediction": "spain",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0186.wav",
+        "actual": "fill ",
+        "prediction": "fill",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0187.wav",
+        "actual": "fat ",
+        "prediction": "",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0188.wav",
+        "actual": "fat ",
+        "prediction": "fat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0189.wav",
+        "actual": "loyal ",
+        "prediction": "loyal",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0190.wav",
+        "actual": "barn ",
+        "prediction": "barn",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0191.wav",
+        "actual": "bite ",
+        "prediction": "bight",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0192.wav",
+        "actual": "bit ",
+        "prediction": "bit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0193.wav",
+        "actual": "a roll of wire lay near the wall ",
+        "prediction": "a rol of wire lay near the wall",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0194.wav",
+        "actual": "thorn ",
+        "prediction": "k",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0195.wav",
+        "actual": "thorn ",
+        "prediction": "thorn",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0196.wav",
+        "actual": "leak ",
+        "prediction": "leak",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0197.wav",
+        "actual": "at ",
+        "prediction": "at",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0198.wav",
+        "actual": "harm ",
+        "prediction": "hurm",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0199.wav",
+        "actual": "harp ",
+        "prediction": "harp",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0200.wav",
+        "actual": "he wrapped the package hastily ",
+        "prediction": "he rapped the package hastily",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0201.wav",
+        "actual": "chop ",
+        "prediction": "chop",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0202.wav",
+        "actual": "start ",
+        "prediction": "start",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0203.wav",
+        "actual": "we rode horseback to the farm ",
+        "prediction": "we rode horseback to the farm",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0204.wav",
+        "actual": "juliet ",
+        "prediction": "juliet",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0205.wav",
+        "actual": "park ",
+        "prediction": "park",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0206.wav",
+        "actual": "the books are very expensive ",
+        "prediction": "the books are very expensive",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0207.wav",
+        "actual": "did dad do academic bidding ",
+        "prediction": "id dad do acchadomick beiting",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0208.wav",
+        "actual": "a good attitude is unbeatable ",
+        "prediction": "a good attitude is unbeatable",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0209.wav",
+        "actual": "dread ",
+        "prediction": "dread",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0210.wav",
+        "actual": "shell ",
+        "prediction": "shell",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0211.wav",
+        "actual": "sin ",
+        "prediction": "fin",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0212.wav",
+        "actual": "knot ",
+        "prediction": "knot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0213.wav",
+        "actual": "ticker ",
+        "prediction": "ticker",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0214.wav",
+        "actual": "the prospect of cutting back spending is an unpleasant one for any governor ",
+        "prediction": "the prospect of cutting back spending is an unpleasant one for any governor",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0215.wav",
+        "actual": "each one volunteered to jump first ",
+        "prediction": "each one volunteered to jump first",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0216.wav",
+        "actual": "uniform ",
+        "prediction": "uniform",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0217.wav",
+        "actual": "the hotel owner shrugged ",
+        "prediction": "whe the hotel owner shrugedd",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0218.wav",
+        "actual": "tin ",
+        "prediction": "tin",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0219.wav",
+        "actual": "wicked ",
+        "prediction": "wicked",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0220.wav",
+        "actual": "the pair of shoes was new ",
+        "prediction": "the pair of shoes was new",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0221.wav",
+        "actual": "no ",
+        "prediction": "no",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0222.wav",
+        "actual": "zip ",
+        "prediction": "zip",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0223.wav",
+        "actual": "he really crucified him he nailed it for a yard loss ",
+        "prediction": "he realy crusifie him he nails it for a ya lost",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0224.wav",
+        "actual": "sheet ",
+        "prediction": "sheet",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0225.wav",
+        "actual": "two ",
+        "prediction": "two",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0226.wav",
+        "actual": "slicker ",
+        "prediction": "slicker",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0227.wav",
+        "actual": "people who value themselves are life's winners ",
+        "prediction": "people who value themselves are live's winners",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0228.wav",
+        "actual": "the owners regularly look for plumbing leaks ",
+        "prediction": "the owners wreleriely lookd for flumming leaks",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0229.wav",
+        "actual": "nest ",
+        "prediction": "nest",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0230.wav",
+        "actual": "and ",
+        "prediction": "and",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0231.wav",
+        "actual": "sip ",
+        "prediction": "sip",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0232.wav",
+        "actual": "xray ",
+        "prediction": "xray",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0233.wav",
+        "actual": "lock ",
+        "prediction": "lock",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0234.wav",
+        "actual": "sand ",
+        "prediction": "sand",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0235.wav",
+        "actual": "him ",
+        "prediction": "him",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0236.wav",
+        "actual": "him ",
+        "prediction": "him",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0237.wav",
+        "actual": "bitter ",
+        "prediction": "bitter",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0238.wav",
+        "actual": "ham ",
+        "prediction": "ham",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0239.wav",
+        "actual": "knot ",
+        "prediction": "knot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0240.wav",
+        "actual": "right ",
+        "prediction": "right",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0241.wav",
+        "actual": "i'm willing to experiment for the first time ",
+        "prediction": "i am willing to experiment for the first time",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0242.wav",
+        "actual": "witch ",
+        "prediction": "witch",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0243.wav",
+        "actual": "although always alone we survive ",
+        "prediction": "although always although always alone we survive",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0244.wav",
+        "actual": "we have an excellent team ",
+        "prediction": "we have an excellent team",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0245.wav",
+        "actual": "nut ",
+        "prediction": "nut",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0246.wav",
+        "actual": "sell ",
+        "prediction": "sell",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0247.wav",
+        "actual": "please open the window quickly ",
+        "prediction": "fleed open the windo cictly",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0248.wav",
+        "actual": "he is definitely a notch above us ",
+        "prediction": "he is definitely a notch above us",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0249.wav",
+        "actual": "sin ",
+        "prediction": "sin",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_arrayMic/0250.wav",
+        "actual": "victor ",
+        "prediction": "victor",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0001.wav",
+        "actual": "shoot ",
+        "prediction": "shoot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0002.wav",
+        "actual": "i looked up and noticed two old men ",
+        "prediction": "i looked up and noticed two old men",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0003.wav",
+        "actual": "slay ",
+        "prediction": "slay",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0004.wav",
+        "actual": "will robin wear a yellow lily ",
+        "prediction": "will robin wear a yellow lily",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0005.wav",
+        "actual": "i was conscious all the time ",
+        "prediction": "i was conscious all the time",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0006.wav",
+        "actual": "prior ",
+        "prediction": "prior",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0007.wav",
+        "actual": "play ",
+        "prediction": "play",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0008.wav",
+        "actual": "briar ",
+        "prediction": "iarbriar",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0009.wav",
+        "actual": "he will allow a rare lilyrare lie ",
+        "prediction": "he will llow a rare lily rare lime",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0010.wav",
+        "actual": "shear ",
+        "prediction": "shear",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0011.wav",
+        "actual": "suit ",
+        "prediction": "suit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0013.wav",
+        "actual": "all the big baseball players get traded ",
+        "prediction": "all the big baseball players get traded",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0014.wav",
+        "actual": "this was easy for us ",
+        "prediction": "this was easy for us",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0015.wav",
+        "actual": "fear ",
+        "prediction": "fear",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0016.wav",
+        "actual": "fear ",
+        "prediction": "fear",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0017.wav",
+        "actual": "sprinkle ",
+        "prediction": "sprinkle",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0018.wav",
+        "actual": "snoop ",
+        "prediction": "snoop",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0019.wav",
+        "actual": "i scrubbed the floors thoroughly ",
+        "prediction": "i scrubbed the floors thoroughly",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0020.wav",
+        "actual": "boot ",
+        "prediction": "broot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0021.wav",
+        "actual": "boot ",
+        "prediction": "boot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0022.wav",
+        "actual": "rocks ",
+        "prediction": "rocks",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0023.wav",
+        "actual": "witch ",
+        "prediction": "witch",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0024.wav",
+        "actual": "though ",
+        "prediction": "se",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0026.wav",
+        "actual": "though ",
+        "prediction": "though",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0027.wav",
+        "actual": "galore ",
+        "prediction": "gallo galore",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0028.wav",
+        "actual": "i tried to tell people in the community ",
+        "prediction": "i tried to tell people in the commuity",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0029.wav",
+        "actual": "gnaw ",
+        "prediction": "gnaw",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0030.wav",
+        "actual": "cycle ",
+        "prediction": "cycle",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0031.wav",
+        "actual": "delta ",
+        "prediction": "delta",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0032.wav",
+        "actual": "she is thinner than i am ",
+        "prediction": "she is thinner than i am",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0033.wav",
+        "actual": "bear ",
+        "prediction": "bear",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0034.wav",
+        "actual": "error ",
+        "prediction": "airair",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0035.wav",
+        "actual": "jungle ",
+        "prediction": "jungle",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0036.wav",
+        "actual": "nothing is as offensive as innocence ",
+        "prediction": "nothing is asoffensive as innocence",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0037.wav",
+        "actual": "menu ",
+        "prediction": "menu",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0038.wav",
+        "actual": "peer ",
+        "prediction": "peer",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0039.wav",
+        "actual": "lip ",
+        "prediction": "lip",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0040.wav",
+        "actual": "dot ",
+        "prediction": "dot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0041.wav",
+        "actual": "we gathered shells on the beach ",
+        "prediction": "we gathered shells on the beach",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0042.wav",
+        "actual": "i feel i can play this weekend ",
+        "prediction": "i feel i can play this weekend",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0043.wav",
+        "actual": "tie ",
+        "prediction": "tie",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0044.wav",
+        "actual": "tie ",
+        "prediction": "tie",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0045.wav",
+        "actual": "sigh ",
+        "prediction": "sigh",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0046.wav",
+        "actual": "mere ",
+        "prediction": "mere",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0047.wav",
+        "actual": "everything went real smooth the sheriff said ",
+        "prediction": "everything went real smooth the sheriff said",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0048.wav",
+        "actual": "pad ",
+        "prediction": "pad",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0049.wav",
+        "actual": "sigh ",
+        "prediction": "sighof sigh",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0050.wav",
+        "actual": "sigh ",
+        "prediction": "sigh",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0051.wav",
+        "actual": "side ",
+        "prediction": "side",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0052.wav",
+        "actual": "their house is grey and white ",
+        "prediction": "their house is grey and white",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0053.wav",
+        "actual": "are your grades higher or lower than nancy's ",
+        "prediction": "are your grades higher or worwer than nancy's",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0054.wav",
+        "actual": "urgent ",
+        "prediction": "urgent",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0055.wav",
+        "actual": "the humidity is overwhelming there ",
+        "prediction": "the humidity is overwhelming bere",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0056.wav",
+        "actual": "explore ",
+        "prediction": "explore",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0057.wav",
+        "actual": "they carried me off on the stretcher ",
+        "prediction": "they caried me off on the stretcher",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0058.wav",
+        "actual": "one validated acts of school districts ",
+        "prediction": "one validated acts of school district",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0059.wav",
+        "actual": "loop ",
+        "prediction": "loop",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0060.wav",
+        "actual": "yes ",
+        "prediction": "yes",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0061.wav",
+        "actual": "floor ",
+        "prediction": "floor",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0062.wav",
+        "actual": "jane may earn more money by working hard ",
+        "prediction": "jane may earn more mony by working hard",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0063.wav",
+        "actual": "back ",
+        "prediction": "back",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0064.wav",
+        "actual": "sigh ",
+        "prediction": "sigh",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0065.wav",
+        "actual": "write ",
+        "prediction": "right",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0066.wav",
+        "actual": "write ",
+        "prediction": "right",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0067.wav",
+        "actual": "four ",
+        "prediction": "four",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0069.wav",
+        "actual": "fruit ",
+        "prediction": "fruit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0070.wav",
+        "actual": "witch ",
+        "prediction": "witch",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0071.wav",
+        "actual": "him ",
+        "prediction": "him",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0072.wav",
+        "actual": "night after night they received annoying phone calls ",
+        "prediction": "night after nightthey received annoying phone calls",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0073.wav",
+        "actual": "and ",
+        "prediction": "and",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0074.wav",
+        "actual": "spark ",
+        "prediction": "spark",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0075.wav",
+        "actual": "hem ",
+        "prediction": "hem",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0076.wav",
+        "actual": "seeds ",
+        "prediction": "seeds",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0077.wav",
+        "actual": "sign ",
+        "prediction": "sign",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0078.wav",
+        "actual": "november ",
+        "prediction": "november",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0079.wav",
+        "actual": "alfalfa is healthy for you ",
+        "prediction": "alfalfa is healthy for you",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0080.wav",
+        "actual": "mush ",
+        "prediction": "mush",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0081.wav",
+        "actual": "oscar ",
+        "prediction": "oscar",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0082.wav",
+        "actual": "sell ",
+        "prediction": "seown",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0083.wav",
+        "actual": "the misguided souls have lost their way ",
+        "prediction": "the misguided souls have lost their way",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0084.wav",
+        "actual": "five ",
+        "prediction": "five",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0085.wav",
+        "actual": "if you are losing water replace it immediately ",
+        "prediction": "if you are losing water replace it immediately",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0086.wav",
+        "actual": "hill ",
+        "prediction": "hill",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0087.wav",
+        "actual": "fitting ",
+        "prediction": "fitting",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0088.wav",
+        "actual": "swing your arm as high as you can ",
+        "prediction": "swing your arm as high as you can",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0089.wav",
+        "actual": "pit ",
+        "prediction": "pit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0090.wav",
+        "actual": "zero ",
+        "prediction": "zero",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0091.wav",
+        "actual": "much ",
+        "prediction": "much",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0092.wav",
+        "actual": "fat ",
+        "prediction": "fat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0093.wav",
+        "actual": "thought ",
+        "prediction": "thought",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0094.wav",
+        "actual": "darn ",
+        "prediction": "darn",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0095.wav",
+        "actual": "golf ",
+        "prediction": "golf",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0096.wav",
+        "actual": "i expect we'll bounce back this week ",
+        "prediction": "i expect we'll bounce back this week",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0097.wav",
+        "actual": "spit ",
+        "prediction": "spit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0098.wav",
+        "actual": "mitten ",
+        "prediction": "mmitten",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0099.wav",
+        "actual": "dark ",
+        "prediction": "dark",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0100.wav",
+        "actual": "six ",
+        "prediction": "six",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0101.wav",
+        "actual": "when all else fails use force ",
+        "prediction": "when all ele fails use force",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0102.wav",
+        "actual": "brought ",
+        "prediction": "brought",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0103.wav",
+        "actual": "alimony harms a divorced man's wealth ",
+        "prediction": "alimony help harms a divorced man's wealth",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0104.wav",
+        "actual": "pit ",
+        "prediction": "pit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0105.wav",
+        "actual": "hat ",
+        "prediction": "hat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0106.wav",
+        "actual": "seed ",
+        "prediction": "seed",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0107.wav",
+        "actual": "sergeant ",
+        "prediction": "sergeant",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0108.wav",
+        "actual": "carl lives in a lovely home ",
+        "prediction": "charle lives in a lovely home",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0109.wav",
+        "actual": "carl lives in a lively home ",
+        "prediction": "charle lives in a lively home",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0110.wav",
+        "actual": "dart ",
+        "prediction": "dart",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0111.wav",
+        "actual": "hum ",
+        "prediction": "hum",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0112.wav",
+        "actual": "pitting ",
+        "prediction": "pitting",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0113.wav",
+        "actual": "side ",
+        "prediction": "side",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0114.wav",
+        "actual": "reek ",
+        "prediction": "reek",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0115.wav",
+        "actual": "it also provides for funds to clear slums and help colleges build dormitories ",
+        "prediction": "it also provides for furnd to cleear slum and helpulcoleges billd dormitories",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0116.wav",
+        "actual": "part ",
+        "prediction": "part",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0117.wav",
+        "actual": "bloat ",
+        "prediction": "bloat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0118.wav",
+        "actual": "it was a good win for us ",
+        "prediction": "it was a good win for us",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0119.wav",
+        "actual": "nothing has been done yet to take advantage of the enabling legislation ",
+        "prediction": "nothing has ben done yet to take advantage of the ennabling legislation",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0120.wav",
+        "actual": "aluminum silverware can often be flimsy ",
+        "prediction": "aluminums of waire can often be flimsy",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0121.wav",
+        "actual": "shy ",
+        "prediction": "shy",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0122.wav",
+        "actual": "lair ",
+        "prediction": "lair",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0123.wav",
+        "actual": "cake ",
+        "prediction": "cake",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0124.wav",
+        "actual": "hitting ",
+        "prediction": "hitting",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0125.wav",
+        "actual": "city ",
+        "prediction": "city",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0126.wav",
+        "actual": "this is a period of transition for me ",
+        "prediction": "this is a period of transition for me",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0127.wav",
+        "actual": "there is a treehouse up above ",
+        "prediction": "there is a treehouse up above",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0128.wav",
+        "actual": "the dolphins swam around our boat ",
+        "prediction": "the dolphins swam around our boat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0130.wav",
+        "actual": "papa ",
+        "prediction": "papa",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0131.wav",
+        "actual": "bran ",
+        "prediction": "bran",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0132.wav",
+        "actual": "brawn ",
+        "prediction": "brawn",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0133.wav",
+        "actual": "pretty ",
+        "prediction": "pretty",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0134.wav",
+        "actual": "witty ",
+        "prediction": "witty",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0135.wav",
+        "actual": "tell ",
+        "prediction": "tell",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0136.wav",
+        "actual": "nine ",
+        "prediction": "nine",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0137.wav",
+        "actual": "written ",
+        "prediction": "written",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0138.wav",
+        "actual": "hotel ",
+        "prediction": "hotel",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0139.wav",
+        "actual": "cart ",
+        "prediction": "cart",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0140.wav",
+        "actual": "the box contained three sweaters ",
+        "prediction": "the box contained three swetters",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0141.wav",
+        "actual": "bitten ",
+        "prediction": "bitten",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0142.wav",
+        "actual": "lick ",
+        "prediction": "lick",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0143.wav",
+        "actual": "this is not a program of socialized medicine ",
+        "prediction": "this is not a program of socialized medicine",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0144.wav",
+        "actual": "this is not a program of socialized medicine ",
+        "prediction": "this is not a program of socialized medicine",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0145.wav",
+        "actual": "league ",
+        "prediction": "league",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0146.wav",
+        "actual": "at ",
+        "prediction": "at",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0147.wav",
+        "actual": "it eventually became a rather proud claim ",
+        "prediction": "it eventually became a rather proud claim",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0148.wav",
+        "actual": "the little schoolhouse stood empty ",
+        "prediction": "the little schoolhouse stood empty",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0149.wav",
+        "actual": "students watched as he got out ",
+        "prediction": "students watched as he got out",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0150.wav",
+        "actual": "take ",
+        "prediction": "take",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0151.wav",
+        "actual": "kitten ",
+        "prediction": "kitten",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0152.wav",
+        "actual": "sitting ",
+        "prediction": "sitting",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0153.wav",
+        "actual": "no ",
+        "prediction": "no",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0154.wav",
+        "actual": "rich ",
+        "prediction": "rich",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0155.wav",
+        "actual": "seven ",
+        "prediction": "seven",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0156.wav",
+        "actual": "leak ",
+        "prediction": "leak",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0157.wav",
+        "actual": "both injuries were to the same leg ",
+        "prediction": "both injuries were to the same leg",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0158.wav",
+        "actual": "hark ",
+        "prediction": "hark",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0159.wav",
+        "actual": "the job provides many benefits ",
+        "prediction": "the job provides many benefit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0160.wav",
+        "actual": "him ",
+        "prediction": "him",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0162.wav",
+        "actual": "the museum hires musicians every evening ",
+        "prediction": "the museum hires musicians every evening",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0163.wav",
+        "actual": "eight ",
+        "prediction": "eaghte",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0164.wav",
+        "actual": "echo ",
+        "prediction": "echo",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0166.wav",
+        "actual": "top ",
+        "prediction": "top",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0167.wav",
+        "actual": "quebec ",
+        "prediction": "quebec",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0168.wav",
+        "actual": "mike ",
+        "prediction": "mike",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0169.wav",
+        "actual": "lima ",
+        "prediction": "lipar",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0170.wav",
+        "actual": "she wore warm fleecy woolen overalls ",
+        "prediction": "she wore warm fleecy wolen overalls",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0171.wav",
+        "actual": "vat ",
+        "prediction": "vat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0172.wav",
+        "actual": "before thursday's exam review every formula ",
+        "prediction": "before thursday's exam review every formula",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0173.wav",
+        "actual": "yes ",
+        "prediction": "yes",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0174.wav",
+        "actual": "blow ",
+        "prediction": "blow",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0175.wav",
+        "actual": "sigh ",
+        "prediction": "sigh",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0176.wav",
+        "actual": "i have had my bell rung ",
+        "prediction": "i have had my bell rung",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0177.wav",
+        "actual": "day after day some new episode is reported ",
+        "prediction": "day after day some new episodeis reported",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0178.wav",
+        "actual": "heart ",
+        "prediction": "heart",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0179.wav",
+        "actual": "kilo ",
+        "prediction": "kilo",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0180.wav",
+        "actual": "kilo ",
+        "prediction": "kilo",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0181.wav",
+        "actual": "knitting ",
+        "prediction": "bitten",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0182.wav",
+        "actual": "foxtrot ",
+        "prediction": "foxtrot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0183.wav",
+        "actual": "he further proposed grants of an unspecified sum for experimental hospitals ",
+        "prediction": "he further proposed grants of an unspecified sum for experimental hospitals",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0184.wav",
+        "actual": "leak ",
+        "prediction": "leak",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0185.wav",
+        "actual": "spain ",
+        "prediction": "spttin",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0186.wav",
+        "actual": "fill ",
+        "prediction": "sell",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0187.wav",
+        "actual": "fat ",
+        "prediction": "at",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0188.wav",
+        "actual": "fat ",
+        "prediction": "fat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0189.wav",
+        "actual": "loyal ",
+        "prediction": "loyal",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0190.wav",
+        "actual": "barn ",
+        "prediction": "barn",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0191.wav",
+        "actual": "bite ",
+        "prediction": "bight",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0192.wav",
+        "actual": "bit ",
+        "prediction": "bit",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0193.wav",
+        "actual": "a roll of wire lay near the wall ",
+        "prediction": "a roll of wire lay near the wall",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0194.wav",
+        "actual": "thorn ",
+        "prediction": "thorn",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0195.wav",
+        "actual": "thorn ",
+        "prediction": "thorn",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0196.wav",
+        "actual": "leak ",
+        "prediction": "leak",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0197.wav",
+        "actual": "at ",
+        "prediction": "at",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0198.wav",
+        "actual": "harm ",
+        "prediction": "hum",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0199.wav",
+        "actual": "harp ",
+        "prediction": "harp",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0200.wav",
+        "actual": "he wrapped the package hastily ",
+        "prediction": "he wrappedd the package hastly",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0201.wav",
+        "actual": "chop ",
+        "prediction": "chop",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0202.wav",
+        "actual": "start ",
+        "prediction": "start",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0203.wav",
+        "actual": "we rode horseback to the farm ",
+        "prediction": "we rode horseback to the farm",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0204.wav",
+        "actual": "juliet ",
+        "prediction": "juliet",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0205.wav",
+        "actual": "park ",
+        "prediction": "park",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0206.wav",
+        "actual": "the books are very expensive ",
+        "prediction": "the books are very expensive",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0207.wav",
+        "actual": "did dad do academic bidding ",
+        "prediction": "did ad do accadomic bitting",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0208.wav",
+        "actual": "a good attitude is unbeatable ",
+        "prediction": "a good atitude is unbeatable",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0209.wav",
+        "actual": "dread ",
+        "prediction": "dread",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0210.wav",
+        "actual": "shell ",
+        "prediction": "shell",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0211.wav",
+        "actual": "sin ",
+        "prediction": "sin",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0212.wav",
+        "actual": "knot ",
+        "prediction": "knot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0213.wav",
+        "actual": "ticker ",
+        "prediction": "ticker",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0214.wav",
+        "actual": "the prospect of cutting back spending is an unpleasant one for any governor ",
+        "prediction": "the prospect of cutting back  spending is an unpleasant one for any governor",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0215.wav",
+        "actual": "each one volunteered to jump first ",
+        "prediction": "each one volunted to jump first",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0216.wav",
+        "actual": "uniform ",
+        "prediction": "uniform",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0217.wav",
+        "actual": "the hotel owner shrugged ",
+        "prediction": "t h the hole tell ownner shruged",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0218.wav",
+        "actual": "tin ",
+        "prediction": "tin",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0219.wav",
+        "actual": "wicked ",
+        "prediction": "wicked",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0220.wav",
+        "actual": "the pair of shoes was new ",
+        "prediction": "the pair of shoes was new",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0221.wav",
+        "actual": "no ",
+        "prediction": "no",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0222.wav",
+        "actual": "zip ",
+        "prediction": "zip",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0223.wav",
+        "actual": "he really crucified him he nailed it for a yard loss ",
+        "prediction": "he rearly crucified him he mails it for a yared los",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0224.wav",
+        "actual": "sheet ",
+        "prediction": "assheet",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0225.wav",
+        "actual": "two ",
+        "prediction": "two",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0226.wav",
+        "actual": "slicker ",
+        "prediction": "slicker",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0227.wav",
+        "actual": "people who value themselves are life's winners ",
+        "prediction": "people who value themselves are live'ss winners",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0228.wav",
+        "actual": "the owners regularly look for plumbing leaks ",
+        "prediction": "the owners wuelrely look for flumming leaks",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0229.wav",
+        "actual": "nest ",
+        "prediction": "est",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0230.wav",
+        "actual": "and ",
+        "prediction": "and",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0231.wav",
+        "actual": "sip ",
+        "prediction": "sip",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0232.wav",
+        "actual": "xray ",
+        "prediction": "expay",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0233.wav",
+        "actual": "lock ",
+        "prediction": "lock",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0234.wav",
+        "actual": "sand ",
+        "prediction": "sand",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0235.wav",
+        "actual": "him ",
+        "prediction": "him",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0236.wav",
+        "actual": "him ",
+        "prediction": "him",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0237.wav",
+        "actual": "bitter ",
+        "prediction": "bitter",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0238.wav",
+        "actual": "ham ",
+        "prediction": "hem",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0239.wav",
+        "actual": "knot ",
+        "prediction": "knot",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0240.wav",
+        "actual": "right ",
+        "prediction": "right",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0241.wav",
+        "actual": "i'm willing to experiment for the first time ",
+        "prediction": "i am willing to experiment for the first time",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0242.wav",
+        "actual": "witch ",
+        "prediction": "witch",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0243.wav",
+        "actual": "although always alone we survive ",
+        "prediction": "although always alvoil always alone wee survie",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0244.wav",
+        "actual": "we have an excellent team ",
+        "prediction": "we have an eccellent team",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0245.wav",
+        "actual": "nut ",
+        "prediction": "bat",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0246.wav",
+        "actual": "sell ",
+        "prediction": "sel",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0247.wav",
+        "actual": "please open the window quickly ",
+        "prediction": "pleas open the windo quictly",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0248.wav",
+        "actual": "he is definitely a notch above us ",
+        "prediction": "he is definitely a notch above us",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0249.wav",
+        "actual": "sin ",
+        "prediction": "sin",
+        "speaker": "F04"
+    },
+    {
+        "path": "content/downloads/Torgo/F04/Session2/wav_headMic/0250.wav",
+        "actual": "victor ",
+        "prediction": "victor",
+        "speaker": "F04"
+    }
+]
