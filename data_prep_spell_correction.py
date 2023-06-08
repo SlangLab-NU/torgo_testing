@@ -32,10 +32,9 @@ def prep_training_data(model, dataset):
     return references
 
 def main(): 
-    last_speaker = 'M05'
     speaker = 'M04'
 
-    model = SpeechRecognitionModel("yip-i/torgo_xlsr_finetune-" + last_speaker + "-2")
+    model = SpeechRecognitionModel("yip-i/torgo_xlsr_finetune-" + speaker + "-2")
     data = load_dataset('csv', data_files='output.csv')
     data = data.cast_column("audio", Audio(sampling_rate=16_000))
 
